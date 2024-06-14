@@ -1,0 +1,7 @@
+---
+library: false
+warnOnImplicitThis: false
+name: knewbury01/test-pack
+version: 0.0.1
+dependencies:
+  codeql/java-all: "*"
